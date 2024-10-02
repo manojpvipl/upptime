@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 219,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "time": 214,
+    "timeDay": 214,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 447,
-    "timeWeek": 447,
-    "timeMonth": 447,
-    "timeYear": 447,
+    "time": 502,
+    "timeDay": 502,
+    "timeWeek": 502,
+    "timeMonth": 502,
+    "timeYear": 502,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "CRMTiger-Website",
+    "url": "https://crmtiger.com",
+    "icon": "https://icons.duckduckgo.com/ip3/crmtiger.com.ico",
+    "slug": "crm-tiger-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 341,
+    "timeDay": 341,
+    "timeWeek": 341,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {}
   },
   {
@@ -70,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-02": 0
+      "2024-10-02": 50
     }
   }
 ]
