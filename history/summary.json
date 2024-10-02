@@ -4,12 +4,12 @@
     "url": "https://varianceinfotech.com",
     "icon": "https://icons.duckduckgo.com/ip3/varianceinfotech.com.ico",
     "slug": "vipl-website",
-    "status": "up",
-    "uptime": "61.23%",
-    "uptimeDay": "61.23%",
-    "uptimeWeek": "61.23%",
-    "uptimeMonth": "61.23%",
-    "uptimeYear": "61.23%",
+    "status": "down",
+    "uptime": "61.55%",
+    "uptimeDay": "61.55%",
+    "uptimeWeek": "61.55%",
+    "uptimeMonth": "61.55%",
+    "uptimeYear": "61.55%",
     "time": 671,
     "timeDay": 671,
     "timeWeek": 671,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crmtiger.com.ico",
     "slug": "crm-tiger-website",
     "status": "up",
-    "uptime": "33.64%",
-    "uptimeDay": "33.64%",
-    "uptimeWeek": "33.64%",
-    "uptimeMonth": "33.64%",
-    "uptimeYear": "33.64%",
+    "uptime": "34.73%",
+    "uptimeDay": "34.73%",
+    "uptimeWeek": "34.73%",
+    "uptimeMonth": "34.73%",
+    "uptimeYear": "34.73%",
     "time": 340,
     "timeDay": 340,
     "timeWeek": 340,
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/realtyshine.com.ico",
     "slug": "demo-website",
     "status": "up",
-    "uptime": "17.31%",
-    "uptimeDay": "17.31%",
-    "uptimeWeek": "17.31%",
-    "uptimeMonth": "17.31%",
-    "uptimeYear": "17.31%",
+    "uptime": "20.71%",
+    "uptimeDay": "20.71%",
+    "uptimeWeek": "20.71%",
+    "uptimeMonth": "20.71%",
+    "uptimeYear": "20.71%",
     "time": 948,
     "timeDay": 948,
     "timeWeek": 948,
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
-      "2024-10-02": 74
+      "2024-10-02": 73
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-02": 51
+      "2024-10-02": 54
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-pv6-test",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-02": 51
+      "2024-10-02": 54
     }
   }
 ]
