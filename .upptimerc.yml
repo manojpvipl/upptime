@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: VIPL-Website
     url: https://varianceinfotech.com
+  - name: CRMTiger-Website
+    url: https://crmtiger.com
   - name: Demo-CRM-Website
     url: https://vitasjordanportal.crmtiger.com
     port: 80
