@@ -9,6 +9,8 @@ sites:
     url: https://crmtiger.com
   - name: Demo-Website
     url: https://realtyshine.com
+  - name: Saleshiker-Website
+    url: https://saleshiker.com
     port: 80
     check: "tcp-ping"
     ipv6: true
