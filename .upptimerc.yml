@@ -11,6 +11,10 @@ sites:
     url: https://realtyshine.com
   - name: Saleshiker-Website
     url: https://saleshiker.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
+  - name: IPv6 test
+    url: forwardemail.net
     port: 80
     check: "tcp-ping"
     ipv6: true
