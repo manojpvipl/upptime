@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: VIPL-Website
     url: https://varianceinfotech.com
-  - name: Demo-CRM
-    url: https://vitasjordanmaster.crmtiger.com
+  - name: Demo-CRM-Website
+    url: https://vitasjordanportal.crmtiger.com
     port: 80
     check: "tcp-ping"
     ipv6: true
