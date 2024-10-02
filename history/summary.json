@@ -4,19 +4,19 @@
     "url": "https://varianceinfotech.com",
     "icon": "https://icons.duckduckgo.com/ip3/varianceinfotech.com.ico",
     "slug": "vipl-website",
-    "status": "up",
-    "uptime": "71.26%",
-    "uptimeDay": "71.26%",
-    "uptimeWeek": "71.26%",
-    "uptimeMonth": "71.26%",
-    "uptimeYear": "71.26%",
+    "status": "down",
+    "uptime": "71.72%",
+    "uptimeDay": "71.72%",
+    "uptimeWeek": "71.72%",
+    "uptimeMonth": "71.72%",
+    "uptimeYear": "71.72%",
     "time": 706,
     "timeDay": 706,
     "timeWeek": 706,
     "timeMonth": 706,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2024-10-02": 111
+      "2024-10-02": 110
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crmtiger.com.ico",
     "slug": "crm-tiger-website",
     "status": "up",
-    "uptime": "59.55%",
-    "uptimeDay": "59.55%",
-    "uptimeWeek": "59.55%",
-    "uptimeMonth": "59.55%",
-    "uptimeYear": "59.55%",
+    "uptime": "59.82%",
+    "uptimeDay": "59.82%",
+    "uptimeWeek": "59.82%",
+    "uptimeMonth": "59.82%",
+    "uptimeYear": "59.82%",
     "time": 340,
     "timeDay": 340,
     "timeWeek": 340,
@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/realtyshine.com.ico",
     "slug": "demo-website",
     "status": "up",
-    "uptime": "62.09%",
-    "uptimeDay": "62.09%",
-    "uptimeWeek": "62.09%",
-    "uptimeMonth": "62.09%",
-    "uptimeYear": "62.09%",
+    "uptime": "62.44%",
+    "uptimeDay": "62.44%",
+    "uptimeWeek": "62.44%",
+    "uptimeMonth": "62.44%",
+    "uptimeYear": "62.44%",
     "time": 948,
     "timeDay": 948,
     "timeWeek": 948,
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-02": 155
+      "2024-10-02": 156
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-02": 155
+      "2024-10-02": 156
     }
   }
 ]
