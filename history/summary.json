@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/varianceinfotech.com.ico",
     "slug": "vipl-website",
     "status": "up",
-    "uptime": "96.79%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "96.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 704,
     "timeDay": 704,
     "timeWeek": 704,
     "timeMonth": 704,
     "timeYear": 704,
-    "dailyMinutesDown": {
-      "2024-10-02": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CRMTiger-Website",
@@ -36,7 +34,7 @@
     "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-10-02": 35
+      "2024-10-02": 36
     }
   }
 ]
