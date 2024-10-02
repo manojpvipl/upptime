@@ -4,19 +4,19 @@
     "url": "https://varianceinfotech.com",
     "icon": "https://icons.duckduckgo.com/ip3/varianceinfotech.com.ico",
     "slug": "vipl-website",
-    "status": "down",
-    "uptime": "61.55%",
-    "uptimeDay": "61.55%",
-    "uptimeWeek": "61.55%",
-    "uptimeMonth": "61.55%",
-    "uptimeYear": "61.55%",
-    "time": 671,
-    "timeDay": 671,
-    "timeWeek": 671,
-    "timeMonth": 671,
-    "timeYear": 671,
+    "status": "up",
+    "uptime": "61.33%",
+    "uptimeDay": "61.33%",
+    "uptimeWeek": "61.33%",
+    "uptimeMonth": "61.33%",
+    "uptimeYear": "61.33%",
+    "time": 697,
+    "timeDay": 697,
+    "timeWeek": 697,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-10-02": 110
+      "2024-10-02": 111
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/crmtiger.com.ico",
     "slug": "crm-tiger-website",
     "status": "up",
-    "uptime": "34.73%",
-    "uptimeDay": "34.73%",
-    "uptimeWeek": "34.73%",
-    "uptimeMonth": "34.73%",
-    "uptimeYear": "34.73%",
+    "uptime": "35.21%",
+    "uptimeDay": "35.21%",
+    "uptimeWeek": "35.21%",
+    "uptimeMonth": "35.21%",
+    "uptimeYear": "35.21%",
     "time": 340,
     "timeDay": 340,
     "timeWeek": 340,
@@ -45,11 +45,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/realtyshine.com.ico",
     "slug": "demo-website",
     "status": "up",
-    "uptime": "20.71%",
-    "uptimeDay": "20.71%",
-    "uptimeWeek": "20.71%",
-    "uptimeMonth": "20.71%",
-    "uptimeYear": "20.71%",
+    "uptime": "21.73%",
+    "uptimeDay": "21.73%",
+    "uptimeWeek": "21.73%",
+    "uptimeMonth": "21.73%",
+    "uptimeYear": "21.73%",
     "time": 948,
     "timeDay": 948,
     "timeWeek": 948,
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-02": 54
+      "2024-10-02": 55
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-02": 54
+      "2024-10-02": 55
     }
   }
 ]
