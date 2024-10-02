@@ -1,6 +1,6 @@
 # Change these first
-owner: ManojVIPL # Updated capitalization of the owner
-repo: Upptime # Updated capitalization of the repository
+owner: manojvipl # Updated capitalization of the owner
+repo: upptime # Updated capitalization of the repository
 
 sites:
   - name: VIPL-Website
@@ -30,9 +30,9 @@ status-website:
   introMessage: Monitor Server With 5 Minutes Interval For Up/Down Status
   navbar:
     - title: Status
-      href: https://upptime.varianceinfotech.com
+      href: /
     - title: GitHub
-      href: https://github.com/ManojVIPL/Upptime # Updated capitalization of owner and repo
+      href: https://github.com/manojvipl/upptime # Updated capitalization of owner and repo
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
