@@ -8,7 +8,7 @@ sites:
   - name: CRMTiger-Website
     url: https://crmtiger.com
   - name: Demo-Website
-    url: https://realtyshine.com
+    url: http://realtyshine.com
   - name: Saleshiker-Website
     url: https://saleshiker.com
   - name: Test Broken Site
