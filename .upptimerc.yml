@@ -7,6 +7,8 @@ sites:
     url: https://varianceinfotech.com
   - name: CRMTiger-Website
     url: https://crmtiger.com
+  - name: CRMTiger-All-Pages
+    url: https://crmtiger.com/*
   - name: Demo-Website
     url: http://realtyshine.com
   - name: Saleshiker-Website
